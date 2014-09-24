@@ -1,1 +1,15 @@
 /* CSS Stylesheet ARCANE */
+
+/* Navigation Links and Site Logo */
+.nav li {
+	display: inline;
+}
+
+.nav a {
+  color: #5a5a5a;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 10% 10px;
+  text-transform: uppercase;
+}
+
