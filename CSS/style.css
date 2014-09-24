@@ -1,15 +1,47 @@
 /* CSS Stylesheet ARCANE */
 
+/* Body Background color */
+body {
+	background-color: #999999;
+}
+
 /* Navigation Links and Site Logo */
 .nav li {
 	display: inline;
+	padding: 10% 10px;
 }
 
 .nav a {
   color: #000;
-  font-size: 20px;
+  font-size: 18px;
   font-weight: bold;
   padding: 10% 10px;
   text-transform: uppercase;
+  font-decoration: none;
 }
 
+.nav {
+	background-color: #fff;
+}
+
+/* Slider */
+.jumbotron h1 {
+	text-shadow: 4px 0px solid;
+	color: #fff;
+}
+
+.jumbotron {
+	height: 25%;
+	width: 85%;
+	background-image:url(http://pxlbyte.com/wp-content/uploads/2013/06/Destiny_31.png);
+	padding: 12px;
+	margin: 12px;
+	position: relative;
+	align: middle;
+	background-size: 100%
+}
+
+.jumbotron p {
+	color: #fff;
+	text-shadow: 2px;
+}
