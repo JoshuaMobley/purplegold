@@ -1,0 +1,6 @@
+Changelog 0.01
+--------------
+
+- Bones Theme Installed on Server.
+
+- Admin Password changed.
